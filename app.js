@@ -12,7 +12,7 @@ const server = http.createServer((req, res) =>{
         res.end('This is the about page')
     }
     
-    res.end('<h1> the page does not exist </h1>')
+    //res.end('<h1>Oops!!!</h1>!  This page does not exist,  <a href="/"> Go back to home</a>')
 
     //console.log(req)
     //res.write('Welcome To My First NodeJs App')
