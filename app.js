@@ -1,4 +1,4 @@
-const http = require('http');
+/*const http = require('http');
 
 
 
@@ -24,11 +24,15 @@ if(req.url === '/contact')
 
 })
 
-server.listen(5000) 
+server.listen(5000) */
 
-/*const _ = require('lodash')
+const _ = require('lodash')
 
 const item = [1,[2,[3,[4]]]]
 const newItems = _.flattenDeep(item)
 console.log(newItems);
-*/
+
+console.log("Hello world")
+
+
+
