@@ -23,8 +23,8 @@ if(req.url === '/contact')
     //res.end()
 
 })
-console.log('Make it happen Boy')
-server.listen(4000) 
+console.log('Make it happen Man')
+server.listen(6000) 
 
 /*
 const _ = require('lodash')
