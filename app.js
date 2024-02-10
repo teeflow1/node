@@ -23,7 +23,7 @@ if(req.url === '/contact')
     //res.end()
 
 })
-console.log('Make it happen Man')
+console.log('Make it happen Boy')
 server.listen(6000) 
 
 /*
