@@ -23,8 +23,8 @@ if(req.url === '/contact')
     //res.end()
 
 })
-console.log('Make it happen Ayobami')
-server.li000) 
+console.log('Make it happen Temitope')
+server.listen(5000)
 
 /*
 const _ = require('lodash')
